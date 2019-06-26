@@ -1,11 +1,5 @@
 [
         {
-  "workbookInformation": {
-    "version": "9.1",
-    "source-platform": "win",
-    "new_key": "new_value"
-  }
-}
         "this.BoiskoNaOs60Lecia2": { "odleglosc": "this.BoiskoNaOs60Lecia2",
          "this.BoiskoNaOs60Lecia2": "1",
 
@@ -24,6 +18,7 @@
         "Coords1": "56.168459",
         "Coords2": "18.168459",
         "Nawigacja": "https://www.google.com/maps/place/53%C2%B057'43.1%22N+18%C2%B031'20.6%22E/@53.9619721,18.5201923,538m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.961969!4d18.522381"},
+        }
         
         { "odleglosc": "this.cSalaGimnastycznaPSP1",
          "this.cSalaGimnastycznaPSP1": "1",
