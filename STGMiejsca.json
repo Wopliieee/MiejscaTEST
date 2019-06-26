@@ -1,4 +1,4 @@
-const BoiskoNaOs60Lecia2=[
+[
         { "odleglosc": ".BoiskoNaOs60Lecia2",
 
         "zdjecie": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/58381675_402424277155767_1502330597513625600_n.jpg?_nc_cat=110&_nc_ht=scontent-waw1-1.xx&oh=94650dbabe19f598c7703e152c4546e8&oe=5D702B75",
@@ -15,9 +15,8 @@ const BoiskoNaOs60Lecia2=[
         "Strona_Internetowa": "-",
         "Coords1": "56.168459",
         "Coords2": "18.168459",
-        "Nawigacja": "https://www.google.com/maps/place/53%C2%B057'43.1%22N+18%C2%B031'20.6%22E/@53.9619721,18.5201923,538m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.961969!4d18.522381"}
-]
-const cSalaGimnastycznaPSP1=[
+        "Nawigacja": "https://www.google.com/maps/place/53%C2%B057'43.1%22N+18%C2%B031'20.6%22E/@53.9619721,18.5201923,538m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.961969!4d18.522381"},
+        
         { "odleglosc": "this.cSalaGimnastycznaPSP1",
 
         "zdjecie": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/59243937_883508015334863_102627822631124992_n.jpg?_nc_cat=109&_nc_ht=scontent-waw1-1.xx&oh=697d614a9ba33c6b38ebb23b8f6ad2b4&oe=5D5DE6A3",
@@ -34,9 +33,8 @@ const cSalaGimnastycznaPSP1=[
         "Strona_Internetowa": "https://psp1starogardgd.edupage.org/",
         "Coords1": "40.168459",
         "Coords2": "13.168459",
-        "Nawigacja": "https://www.google.com/maps/place/53%C2%B057'40.5%22N+18%C2%B030'04.0%22E/@53.9612621,18.4989133,538m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.961259!4d18.501102"}
-]
-const dSalaGimnastycznaPSP1=[
+        "Nawigacja": "https://www.google.com/maps/place/53%C2%B057'40.5%22N+18%C2%B030'04.0%22E/@53.9612621,18.4989133,538m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.961259!4d18.501102"},
+        
         { "odleglosc": "this.dSalaGimnastycznaPSP1",
 
         "zdjecie": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/59243937_883508015334863_102627822631124992_n.jpg?_nc_cat=109&_nc_ht=scontent-waw1-1.xx&oh=697d614a9ba33c6b38ebb23b8f6ad2b4&oe=5D5DE6A3",
@@ -53,9 +51,8 @@ const dSalaGimnastycznaPSP1=[
         "Strona_Internetowa": "https://psp1starogardgd.edupage.org/",
         "Coords1": "42.168459",
         "Coords2": "13.168459",
-        "Nawigacja": "https://www.google.com/maps/place/53%C2%B057'40.5%22N+18%C2%B030'04.0%22E/@53.9612621,18.4989133,538m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.961259!4d18.501102"}
-]
-const bSalaGimnastycznaPSP1=[
+        "Nawigacja": "https://www.google.com/maps/place/53%C2%B057'40.5%22N+18%C2%B030'04.0%22E/@53.9612621,18.4989133,538m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.961259!4d18.501102"},
+        
         { "odleglosc": "this.bSalaGimnastycznaPSP1",
 
         "zdjecie": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/59243937_883508015334863_102627822631124992_n.jpg?_nc_cat=109&_nc_ht=scontent-waw1-1.xx&oh=697d614a9ba33c6b38ebb23b8f6ad2b4&oe=5D5DE6A3",
@@ -72,9 +69,8 @@ const bSalaGimnastycznaPSP1=[
         "Strona_Internetowa": "https://psp1starogardgd.edupage.org/",
         "Coords1": "39.168459",
         "Coords2": "13.168459",
-        "Nawigacja": "https://www.google.com/maps/place/53%C2%B057'40.5%22N+18%C2%B030'04.0%22E/@53.9612621,18.4989133,538m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.961259!4d18.501102"}
-]
-const aSalaGimnastycznaPSP1=[ 
+        "Nawigacja": "https://www.google.com/maps/place/53%C2%B057'40.5%22N+18%C2%B030'04.0%22E/@53.9612621,18.4989133,538m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.961259!4d18.501102"},
+        
         { "odleglosc": "this.aSalaGimnastycznaPSP1",
 
         "zdjecie": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/59243937_883508015334863_102627822631124992_n.jpg?_nc_cat=109&_nc_ht=scontent-waw1-1.xx&oh=697d614a9ba33c6b38ebb23b8f6ad2b4&oe=5D5DE6A3",
@@ -91,9 +87,8 @@ const aSalaGimnastycznaPSP1=[
         "Strona_Internetowa": "https://psp1starogardgd.edupage.org/",
         "Coords1": "38.168459",
         "Coords2": "13.168459",
-        "Nawigacja": "https://www.google.com/maps/place/53%C2%B057'40.5%22N+18%C2%B030'04.0%22E/@53.9612621,18.4989133,538m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.961259!4d18.501102"}
-]
-const BoiskoPSP1filia=[ 
+        "Nawigacja": "https://www.google.com/maps/place/53%C2%B057'40.5%22N+18%C2%B030'04.0%22E/@53.9612621,18.4989133,538m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d53.961259!4d18.501102"},
+          
         { "odleglosc": "this.BoiskoPSP1filia",
 
         "zdjecie": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/62073974_380842429443324_3345047983279308800_n.jpg?_nc_cat=109&_nc_ht=scontent-waw1-1.xx&oh=0395ae9118ce30598982ca6a0d8644e7&oe=5D9C5C25",
