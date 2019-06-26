@@ -1,4 +1,11 @@
 [
+        {
+  "workbookInformation": {
+    "version": "9.1",
+    "source-platform": "win",
+    "new_key": "new_value"
+  }
+}
         "this.BoiskoNaOs60Lecia2": { "odleglosc": "this.BoiskoNaOs60Lecia2",
          "this.BoiskoNaOs60Lecia2": "1",
 
