@@ -1,4 +1,5 @@
 [
+        var jsObj = {
         "this.BoiskoNaOs60Lecia2": { "odleglosc": "this.BoiskoNaOs60Lecia2",
 
         "zdjecie": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/58381675_402424277155767_1502330597513625600_n.jpg?_nc_cat=110&_nc_ht=scontent-waw1-1.xx&oh=94650dbabe19f598c7703e152c4546e8&oe=5D702B75",
@@ -106,5 +107,5 @@
         "Coords1": "53.168459",
         "Coords2": "15.168459",
         "Nawigacja": "https://www.google.pl/maps/place/53%C2%B057'59.3%22N+18%C2%B031'09.1%22E/@53.9664759,18.5185349,196m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d53.9664754!4d18.5191872?hl=pl"}
-
+        }
       ]
